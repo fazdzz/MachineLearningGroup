@@ -1,0 +1,78 @@
+# Machine Learning
+
+### Definition
+
+> A computer program is said to learn from experience ***E*** with respect to some task ***T*** and some performance measure ***P***, if its performance on ***T*** as measured by ***P*** improves with experience ***E***.
+
+针对给定任务T，程序能通过积累并学习经验E来提高其在T上的表现（由判断标准P来衡量）。
+
+##### examples
+
+1. 下棋
+   - 取得棋局胜利（T）
+   - 不断下棋（E）
+   - 胜率（P）
+2. 垃圾邮件过滤
+   - 过滤辣鸡邮件（T）
+   - 用户举报行为所产生的辣鸡邮件数据集（E）
+   - 过滤辣鸡邮件的准确率（P）
+
+------
+
+### Algorithms
+
+- ##### Supervised learning
+
+  > 监督学习
+  >
+  > Give the algorithm a data set in which **the "right answers" were given**. 
+  >
+  > 给出的数据集需要有明确的正确答案。
+  >
+  > For every example in data set, we are told what is the "correct answer" that we would have quite liked the algorithms have predicted on that example.
+  >
+  > 算法通过预测得到例子的“正确答案”。
+
+  ###### examples
+
+  1. Regression
+
+     > 回归问题
+     >
+     > Predict continuous valued output
+     >
+     > （根据已有的数据集）预测**连续的**数据分布。
+     >
+     > - 给出一组房价与面积的数据，选取合适的模型预测某面积的房子的价值。
+
+  2. Classification
+
+     > 分类问题
+     >
+     > Discrete valued output
+     >
+     > 输出值是**离散的**。
+     >
+     > 输出值是特征数据组的映射。
+     >
+     > - 根据患者特征（如年龄），肿瘤的各项特征（如体积），判断患者的肿瘤更可能是良性还是恶性。
+     >
+     > ##### Support Vector
+     >
+     > > 支持向量机算法
+
+- ##### Unsupervised learning
+
+  > 无监督学习
+
+- ##### Reinforcement learning
+
+  > 增强学习
+
+- ##### Recommender systems
+
+  > 推荐系统
+
+课程主要讲解前两种算法
+
+------
