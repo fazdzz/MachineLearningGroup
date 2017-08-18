@@ -2,7 +2,7 @@
 
 ## 简介
 
-☀粉丝后援团学习小组。
+☀粉丝后援团机器学习小组。
 
 ## 目标
 
@@ -45,4 +45,18 @@ https://www.bilibili.com/video/av9912938/
 ## 学习计划
 
 视频一共约20h，建议每天完成一周，共勉吧。
+
+## 有关数学公式的说明
+
+由于github的md解析本身是不支持解析LaTex的，如果想在md中插入数学公式可以参考以下方法
+
+首先在这个[LaTex在线编辑器](http://www.codecogs.com/latex/eqneditor.php)中完成公式
+
+下面有一个框可以生成其它类型的代码，这里选中"URL Encoded"，复制链接。
+
+接下来在md中插入图片即可。
+
+效果预览
+
+![](http://latex.codecogs.com/gif.latex?x%5E%7B2%7D)
 
