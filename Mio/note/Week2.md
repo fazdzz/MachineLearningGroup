@@ -63,7 +63,7 @@
 
 所以我们有梯度下降公式
 
-![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bj%7D%20%3D%20%5Ctheta_%7Bj%7D%20-%20%5Calpha%20%5Cfrac%20%7B%5Cpartial%7D%7B%5Ctheta_%7Bj%7D%7DJ%28%5Ctheta_%7B0%7D%2C%5Ctheta_%7B1%7D%29)
+![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bj%7D%20%3D%20%5Ctheta_%7Bj%7D%20-%20%5Calpha%20%5Cfrac%20%7B%5Cpartial%7D%7B%5Cpartial%20%5Ctheta_%7Bj%7D%7DJ%28%5Ctheta_%7B0%7D%2C%5Ctheta_%7B1%7D%29)
 
 - 其中α是学习率，通俗说就是每次下降的步伐迈多大。
 - j的取值为0或1。
