@@ -10,13 +10,27 @@
 
 ## 资源
 
+### 网课
+
 https://www.bilibili.com/video/av9912938/
+
+### 作业
+
+作业在coursera上都可以下载，但是只有**加入课程**的用户可以**在线评测**，务必注意。
+
+我会把作业搬运过来，各位如果想参与作业结果评测有三个办法
+
+- 我会把最终结果发出来，可以参考我的结果。
+- 在coursera上提交评测。
+- 注册一个共用账号提交评测（考虑中）。
+
+另外值得说明的是B站的周序和现在coursera上的周序不是对应的。
 
 ## 学习方式
 
 ### 目录
 
-每个人在根目录下建立自己的文件夹，文件夹内建议一个文件夹存放笔记，一个文件夹存放代码，另外一个README.md说明。
+每个人在根目录下建立自己的文件夹，文件夹内**建议**一个文件夹存放笔记，一个文件夹存放代码，另外一个README.md说明。
 
 ### 笔记
 
@@ -48,7 +62,7 @@ https://www.bilibili.com/video/av9912938/
 
 ## 有关数学公式的说明
 
-由于github的md解析本身是不支持解析LaTex的，如果想在md中插入数学公式可以参考以下方法
+由于github的md解析本身是不支持解析LaTex的，如果想在github上的md中插入数学公式可以参考以下方法
 
 首先在这个[LaTex在线编辑器](http://www.codecogs.com/latex/eqneditor.php)中完成公式
 
@@ -60,3 +74,8 @@ https://www.bilibili.com/video/av9912938/
 
 ![](http://latex.codecogs.com/gif.latex?x%5E%7B2%7D)
 
+当然，如果你用的是typora，它自带的有LaTex解析
+
+效果预览
+
+$x^{2}$
