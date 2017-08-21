@@ -72,7 +72,7 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 
 首先在这个[LaTex在线编辑器](http://www.codecogs.com/latex/eqneditor.php)中完成公式
 
-下面有一个框可以生成其它类型的代码，这里选中"URL Encoded"，复制链接。
+下面有一个框可以生成其它类型的代码，这里选中"URL"或"URL Encoded"，复制链接。
 
 接下来在md中插入图片即可。
 
