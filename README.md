@@ -20,6 +20,10 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 
 官方有繁中字幕，但是网速和字幕质量比较糟心。
 
+http://cs229.stanford.edu/materials.html
+
+原版课程讲义和各种资源。
+
 ### 作业
 
 作业在coursera上都可以下载，但是只有**加入课程**的用户可以**在线评测**，务必注意。
