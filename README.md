@@ -14,6 +14,12 @@
 
 https://www.bilibili.com/video/av9912938/
 
+质量还不错
+
+https://www.coursera.org/learn/machine-learning/home/welcome
+
+官方有繁中字幕，但是网速和字幕质量比较糟心。
+
 ### 作业
 
 作业在coursera上都可以下载，但是只有**加入课程**的用户可以**在线评测**，务必注意。
