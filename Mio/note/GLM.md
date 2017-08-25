@@ -12,7 +12,7 @@ Generalized Linear Models(GLM)就是广义线性模型，之前在监督学习�
 
 ![](http://latex.codecogs.com/gif.latex?p%28y%3B%5Ceta%29%20%3D%20b%28y%29e%5E%7B%5Ceta%5E%7BT%7DT%28y%29-a%28%5Ceta%29%7D)
 
-同时讲义中也提到更加完整的定义应该是，不过这里为了方便仅用上面的简化定义。
+同时讲义中也提到更加完整的定义应该是这样，不过这里为了方便仅用上面的简化定义。
 
 ![](http://latex.codecogs.com/gif.latex?p%28y%3B%5Ceta%2C%5Ctau%29%20%3D%20b%28y%2C%20%5Ctau%29e%5E%7B%5Cfrac%20%7B%5Ceta%5E%7BT%7DT%28y%29-a%28%5Ceta%29%7D%7Bc%28%5Ctau%29%7D%7D)
 
@@ -26,13 +26,13 @@ Generalized Linear Models(GLM)就是广义线性模型，之前在监督学习�
 
 取值如下
 
-![](http://latex.codecogs.com/gif.latex?%5Cbegin%7Baligned%7D%20%26%20%5Ceta%20%3D%20log%28%5Cphi/%281-%5Cphi%29%29%5C%5C%20%26%20T%28y%29%20%3D%20y%5C%5C%20%26%20a%28%5Ceta%29%20%3D%20-%20log%281-%5Cphi%29%5C%5C%20%26%20b%7By%7D%20%3D%201%20%5Cend%7Balgned%7D)
+![](http://latex.codecogs.com/gif.latex?%5Cbegin%7Baligned%7D%20%26%20%5Ceta%20%3D%20log%28%5Cphi/%281-%5Cphi%29%29%5C%5C%20%26%20T%28y%29%20%3D%20y%5C%5C%20%26%20a%28%5Ceta%29%20%3D%20-%20log%281-%5Cphi%29%5C%5C%20%26%20b%28y%29%20%3D%201%20%5Cend%7Balgned%7D)
 
 ### 高斯分布
 
 取值如下
 
-![](http://latex.codecogs.com/gif.latex?%5Cbegin%7Baligned%7D%20%26%20%5Ceta%20%3D%20%5Cmu%5C%5C%20%26%20T%28y%29%20%3D%20y%5C%5C%20%26%20a%28%5Ceta%29%20%3D%20%5Cmu%5E%7B2%7D/2%5C%5C%20%26%20b%7By%7D%20%3D%20%281/%5Csqrt%7B2%5Cpi%7D%29e%5E%7B-y%5E%7B2%7D/2%7D%20%5Cend%7Balgned%7D)
+![](http://latex.codecogs.com/gif.latex?%5Cbegin%7Baligned%7D%20%26%20%5Ceta%20%3D%20%5Cmu%5C%5C%20%26%20T%28y%29%20%3D%20y%5C%5C%20%26%20a%28%5Ceta%29%20%3D%20%5Cmu%5E%7B2%7D/2%5C%5C%20%26%20b%28y%29%20%3D%20%281/%5Csqrt%7B2%5Cpi%7D%29e%5E%7B-y%5E%7B2%7D/2%7D%20%5Cend%7Balgned%7D)
 
 当然这里设σ^2=1，不然就要用完整定义了。
 
